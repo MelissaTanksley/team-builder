@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 import './App.css';
-import TeamMemberCard from './TeamMemberCard';
-import MemberForm from './MemberForm';
+import TeamMemberCard from './TeamMemberCard'
+import MemberForm from './MemberForm'
 
 function App() {
   const [team, setTeam] = useState([{

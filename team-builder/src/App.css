@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.cardDiv {
+  margin: auto;
+  width: 25rem;
+}
+
+.card-body {
+  margin: 1rem;
+}
+
+.formDiv {
+  margin: auto;
+  width: 25rem;
+} 
